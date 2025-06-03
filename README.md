@@ -1,4 +1,4 @@
-# birthdays-backend
+# birthdays-database
 
 This is a DB part of Birthdays application.
 Now it only contains migrations you'll need to apply to your own PostgreSQL DB instance in order to have required schema.
